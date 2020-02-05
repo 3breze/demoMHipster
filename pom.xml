@@ -64,10 +64,6 @@
 	<build>
 		<plugins>
 			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
-			<plugin>
 				<groupId>com.oul.mHipster</groupId>
 				<artifactId>mHipster-maven-plugin</artifactId>
 				<version>1.0-SNAPSHOT</version>
